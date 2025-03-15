@@ -14,6 +14,7 @@ A TV tem status de ligada ou desligada, basta o usuário alterar o estado; <br>
 O volume da TV pode ser aumentado ou diminuido sempre em +1 ou -1;<br>
 Para  mudar de canal o status pode ser alterado de 1 em 1 ou definindo o número correspondente.
 <br>
+- 
 - Escopo;
 - Palavras Reservadas;
 - 
