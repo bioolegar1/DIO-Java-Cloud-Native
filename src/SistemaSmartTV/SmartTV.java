@@ -35,6 +35,4 @@ public class SmartTV {
         canal = novoCanal;
     }
 
-
-
 }

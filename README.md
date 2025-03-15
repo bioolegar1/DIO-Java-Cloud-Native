@@ -17,4 +17,5 @@ Para  mudar de canal o status pode ser alterado de 1 em 1 ou definindo o número
 - 
 - Escopo;
 - Palavras Reservadas;
-- 
+<br>
+- -  Existem 52 palavras reservadas organizadas por classificação de usabilidade considerando as regras da linguagem.
